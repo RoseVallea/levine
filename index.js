@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log(`🔗 Powered By RTX`);
 });
 
-const statusMessages = ["⠀♡⠀"];
+const statusMessages = ["♡"];
 let currentIndex = 0;
 const channelId = ''; // Add your channel ID here
 
